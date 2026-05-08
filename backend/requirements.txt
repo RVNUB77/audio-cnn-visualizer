@@ -1,0 +1,10 @@
+pandas
+torchaudio==2.5.1
+torch==2.5.1
+tqdm
+numpy
+tensorboard
+soundfile
+fastapi
+librosa
+pydantic
